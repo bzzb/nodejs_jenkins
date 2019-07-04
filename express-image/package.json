@@ -1,0 +1,18 @@
+{
+  "name": "express-image",
+  "version": "1.0.0",
+  "description": "Example Node Application",
+  "author": "bzzb",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bzzb/nodejs_jenkins.git"
+  },
+  "license": "ISC",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
+
